@@ -1,0 +1,12 @@
+{
+  "name": "box3sjs",
+  "version": "0.3.0",
+  "description": "Box3实用框架",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit"
+  },
+  "author": "shyfcka",
+  "license": "MIT"
+}
